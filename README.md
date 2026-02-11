@@ -1,4 +1,52 @@
-## Hi there 👋
+# 👋 Hey, I’m P. James
+
+I’m a builder — I turn ideas into code that works and that you can actually run.
+
+I prefer simple tools that solve real problems over over-engineered solutions nobody finishes.
+
+---
+
+## 🔧 What I’m Working On
+- **sfo-file-organizer** — A Python-based rule-driven file organizer
+- **Agri Survey Analytics Platform** — A production-quality data analytics project for agricultural field surveys collected using ODK/Kobo.
+
+*(My focus is on tools that help me automate repetitive stuff and make the web more organized.)*
+
+---
+
+## 🧰 Tech Stack
+- **Python**  
+- **HTML / CSS / JS**  
+- **Astro** (for static sites)  
+- **Basic automation & scripting**
+
+---
+
+## ⭐ Featured Projects
+
+### 🧹 sfo-file-organizer  
+A pragmatic, no-nonsense Python organizer for cleaning up file chaos.
+
+### 🌐 Center-Onyx (Web UI using SPA)  
+Small web UI build showing layout and component work (HTML / CSS / JS focused).
+
+### 🚀 pjames  
+A static site (Astro) that can serve as a personal hub or portfolio.
+
+---
+
+## 💡 How I Think
+- I ship early and often  
+- I fix real problems I deal with  
+- I favor clarity over flash
+
+If it doesn’t run with a few commands, it’s not done.
+
+---
+
+## 📫 Want to connect?
+- LinkedIn: *(https://www.linkedin.com/in/pjames-tech/)*  
+- Email: *pjames1643@gmail.com*
 
 <!--
 **pjames-tech/pjames-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

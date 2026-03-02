@@ -1,6 +1,6 @@
 # 👋 Hey, I’m P. James
 
-I’m a builder — I turn ideas into code that works and that you can actually run.
+I’m a builder; I turn ideas into code that works and that you can actually run.
 
 I prefer simple tools that solve real problems over over-engineered solutions nobody finishes.
 
@@ -9,26 +9,33 @@ I prefer simple tools that solve real problems over over-engineered solutions no
 ## 🔧 What I’m Working On
 - **sfo-file-organizer** — A Python-based rule-driven file organizer
 - **Agri Survey Analytics Platform** — A production-quality data analytics project for agricultural field surveys collected using ODK/Kobo.
+- **Realty-OS** - A dashboard and web app that functions as a lead engagement system for real estate agents that qualifies, tags, and books appointments without human intervention.
 
-*(My focus is on tools that help me automate repetitive stuff and make the web more organized.)*
+*(My focus is on revenue engines, websites and tools that help businesses and me automate repetitive stuff and make the web more organized.)*
 
 ---
 
 ## 🧰 Tech Stack
 - **Python**  
 - **HTML / CSS / JS**  
-- **Astro** (for static sites)  
-- **Basic automation & scripting**
+- **Astro** (for static sites)
+- **React(Next.js)**
+- **Typescript**
+- **Automation & scripting**
 
 ---
+## 🌱 I’m currently learning 
+- **Workflows & Agentic development**
+- **Backend Web development**
+- **APIs and Webhooks**
 
 ## ⭐ Featured Projects
 
 ### 🧹 sfo-file-organizer  
 A pragmatic, no-nonsense Python organizer for cleaning up file chaos.
 
-### 🌐 Center-Onyx (Web UI using SPA)  
-Small web UI build showing layout and component work (HTML / CSS / JS focused).
+### 🕸️Realty-os
+Lead engagement system. Qualifies, tags, and books appointments without human intervention.
 
 ### 🚀 pjames  
 A static site (Astro) that can serve as a personal hub or portfolio.

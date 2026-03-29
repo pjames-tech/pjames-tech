@@ -1,31 +1,36 @@
 # Hi, I'm James 👋
 
-I build software systems, tools, and real-world applications.
+I build software systems, tools, and network-driven applications.
 
 ## 📁 About
 
-This GitHub contains my work as I design and develop practical solutions — from working utilities to system-based applications across different domains.
+This GitHub contains my projects as I design and develop practical solutions — from working utilities to system-based applications across different domains.
 
 ## 🚀 What I Build
 
-* Functional tools and automation scripts
-* Full-stack applications
-* System-driven platforms (multi-feature apps)
-* Domain-focused projects (e.g. real estate, agriculture)
+* Tools and automation systems
+* Network-based applications (LAN-focused)
+* Web platforms and multi-feature systems
+* Domain-driven applications (e.g. real estate, agriculture)
 
-## 🧩 Featured Projects
+## 🧩 Key Projects
 
 ### 📂 SFO – File Organizer
 
-A working tool for automatically organizing and structuring files.
+A functional tool for organizing and structuring files automatically.
+
+### ⚡ OctaneDrop-LAN
+
+A local network (LAN) file transfer system focused on efficient device-to-device communication and file sharing.
 
 ### 🌾 AgroSynapse
 
-An agriculture-focused system exploring data-driven solutions for farming and related processes.
+An agriculture-focused system exploring data-driven and operational workflows.
 
 ### 🏠 Realty OS
 
-A real estate system prototype for managing listings, users, and workflows.
+A real estate platform prototype for managing listings, users, and interactions.
+
 
 ## 🛠️ Stack
 
@@ -33,13 +38,14 @@ A real estate system prototype for managing listings, users, and workflows.
 * Python
 * React / Vite
 * HTML / CSS
+* Networking concepts (LAN communication, file transfer)
 * Git & GitHub
 
 ## 📌 Approach
 
-* I build practical, real-world systems
-* I focus on solving problems, not just writing code
-* I experiment, iterate, and improve continuously
+* I build systems around real-world workflows
+* I focus on practical, usable solutions
+* I explore both application and system-level development
 
 ## 🚧 Notes
 
@@ -49,4 +55,5 @@ A real estate system prototype for managing listings, users, and workflows.
 ## 📫 Contact
 
 * GitHub: https://github.com/pjames-tech
+
 * Email: pjames1643@gmail.com

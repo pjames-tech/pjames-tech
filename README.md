@@ -1,71 +1,52 @@
-# 👋 Hey, I’m P. James
+# Hi, I'm James 👋
 
-I’m a builder; I turn ideas into code that works and that you can actually run.
+I build software systems, tools, and real-world applications.
 
-I prefer simple tools that solve real problems over over-engineered solutions nobody finishes.
+## 📁 About
 
----
+This GitHub contains my work as I design and develop practical solutions — from working utilities to system-based applications across different domains.
 
-## 🔧 What I’m Working On
-- **sfo-file-organizer** — A Python-based rule-driven file organizer
-- **Agri Survey Analytics Platform** — A production-quality data analytics project for agricultural field surveys collected using ODK/Kobo.
-- **Realty-OS** - A dashboard and web app that functions as a lead engagement system for real estate agents that qualifies, tags, and books appointments without human intervention.
+## 🚀 What I Build
 
-*(My focus is on revenue engines, websites and tools that help businesses and me automate repetitive stuff and make the web more organized.)*
+* Functional tools and automation scripts
+* Full-stack applications
+* System-driven platforms (multi-feature apps)
+* Domain-focused projects (e.g. real estate, agriculture)
 
----
+## 🧩 Featured Projects
 
-## 🧰 Tech Stack
-- **Python**  
-- **HTML / CSS / JS**  
-- **Astro** (for static sites)
-- **React(Next.js)**
-- **Typescript**
-- **Automation & scripting**
+### 📂 SFO – File Organizer
 
----
-## 🌱 I’m currently learning 
-- **Workflows & Agentic development**
-- **Backend Web development**
-- **APIs and Webhooks**
+A working tool for automatically organizing and structuring files.
 
-## ⭐ Featured Projects
+### 🌾 AgroSynapse
 
-### 🧹 sfo-file-organizer  
-A pragmatic, no-nonsense Python organizer for cleaning up file chaos.
+An agriculture-focused system exploring data-driven solutions for farming and related processes.
 
-### 🕸️Realty-os
-Lead engagement system. Qualifies, tags, and books appointments without human intervention.
+### 🏠 Realty OS
 
-### 🚀 pjames  
-A static site (Astro) that can serve as a personal hub or portfolio.
+A real estate system prototype for managing listings, users, and workflows.
 
----
+## 🛠️ Stack
 
-## 💡 How I Think
-- I ship early and often  
-- I fix real problems I deal with  
-- I favor clarity over flash
+* JavaScript
+* Python
+* React / Vite
+* HTML / CSS
+* Git & GitHub
 
-If it doesn’t run with a few commands, it’s not done.
+## 📌 Approach
 
----
+* I build practical, real-world systems
+* I focus on solving problems, not just writing code
+* I experiment, iterate, and improve continuously
 
-## 📫 Want to connect?
-- LinkedIn: *(https://www.linkedin.com/in/pjames-tech/)*  
-- Email: *pjames1643@gmail.com*
+## 🚧 Notes
 
-<!--
-**pjames-tech/pjames-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Some projects are experimental or evolving
+* Others are functional and actively usable
 
-Here are some ideas to get you started:
+## 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* GitHub: https://github.com/pjames-tech
+* Email: pjames1643@gmail.com
